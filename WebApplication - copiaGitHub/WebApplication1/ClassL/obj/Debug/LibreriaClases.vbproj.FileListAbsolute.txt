@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\obj\Debug\ClassL.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\obj\Debug\LibreriaClases.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\bin\Debug\ClassL.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\bin\Debug\ClassL.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\bin\Debug\ClassL.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\obj\Debug\ClassL.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\obj\Debug\ClassL.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\HADS21\WebApplication1\ClassL\obj\Debug\ClassL.pdb
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\bin\Debug\ClassL.dll
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\bin\Debug\ClassL.pdb
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\bin\Debug\ClassL.xml
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\obj\Debug\ClassL.Resources.resources
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\obj\Debug\LibreriaClases.vbproj.GenerateResource.Cache
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\obj\Debug\ClassL.dll
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\obj\Debug\ClassL.xml
+C:\Users\Kuko03_Racing\Desktop\HADS-Lab ADO.NET\WebApplication1\ClassL\obj\Debug\ClassL.pdb

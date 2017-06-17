@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tareas xmlns:has="http://ji.ehu.es/has">
+  <tarea>
+    <codigo>asdfasf</codigo>
+    <descripcion>asfdasfas</descripcion>
+    <hestimadas>55555566</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>SEG08-Test12</codigo>
+    <descripcion>Test 12 de la asignatura</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>SEG08-Trabajo20</codigo>
+    <descripcion>Tareas del trabajo 20 de la asignatura</descripcion>
+    <hestimadas>10</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Trabajo</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Seg33</codigo>
+    <descripcion>MUY DIFICIL</descripcion>
+    <hestimadas>6000</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Seg001</codigo>
+    <descripcion>MUY FACIL</descripcion>
+    <hestimadas>0</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+</tareas>

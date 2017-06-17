@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Tareas>
+    <Codigo>GIS-Lab4</Codigo>
+    <Descripcion>ddfdfdf</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>6</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>HAS08-Lab10</Codigo>
+    <Descripcion>aaaa</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>10</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>HAS08-Lab12</Codigo>
+    <Descripcion>Laboratorio 12 de la asignatura</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>HAS08-Test5</Codigo>
+    <Descripcion>Test 5 de la asignatura</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>examen</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>HAS11-LAB4</Codigo>
+    <Descripcion>lalalalal</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>20</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>HAS17-Lab4</Codigo>
+    <Descripcion>Laboratorio 12 de la asignatura</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>HAS17-Test1</Codigo>
+    <Descripcion>Test 5 de la asignatura</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>1</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>examen</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>Lab4</Codigo>
+    <Descripcion>lelelelelelelel</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>prueba</Codigo>
+    <Descripcion>prueba</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>Test Final</Codigo>
+    <Descripcion>Dificil</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Laboratorio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>Test1</Codigo>
+    <Descripcion>10 preguntas ....</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>1</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>Test3</Codigo>
+    <Descripcion>Test3</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>8</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>Ejercicio</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>Test69</Codigo>
+    <Descripcion>10 preguntas ....</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>1</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+  </Tareas>
+  <Tareas>
+    <Codigo>Test79</Codigo>
+    <Descripcion>10 preguntas ....</Descripcion>
+    <CodAsig>HAS</CodAsig>
+    <HEstimadas>1</HEstimadas>
+    <Explotacion>false</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+  </Tareas>
+</NewDataSet>

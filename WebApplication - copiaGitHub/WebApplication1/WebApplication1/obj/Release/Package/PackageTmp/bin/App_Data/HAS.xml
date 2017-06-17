@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tareas xmlns:has="http://ji.ehu.es/has">
+  <tarea>
+    <codigo>GIS-Lab4</codigo>
+    <descripcion>ddfdfdf</descripcion>
+    <hestimadas>6</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>HAS08-Lab10</codigo>
+    <descripcion>aaaa</descripcion>
+    <hestimadas>10</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>HAS08-Lab12</codigo>
+    <descripcion>Laboratorio 12 de la asignatura</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>HAS08-Test5</codigo>
+    <descripcion>Test 5 de la asignatura</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>HAS11-LAB4</codigo>
+    <descripcion>lalalalal</descripcion>
+    <hestimadas>20</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>HAS17-Lab4</codigo>
+    <descripcion>Laboratorio 12 de la asignatura</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>HAS17-Test1</codigo>
+    <descripcion>Test 5 de la asignatura</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Lab4</codigo>
+    <descripcion>lelelelelelelel</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>prueba</codigo>
+    <descripcion>prueba</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Test Final</codigo>
+    <descripcion>Dificil</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Test1</codigo>
+    <descripcion>10 preguntas ....</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Test3</codigo>
+    <descripcion>Test3</descripcion>
+    <hestimadas>8</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Test69</codigo>
+    <descripcion>10 preguntas ....</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Test79</codigo>
+    <descripcion>10 preguntas ....</descripcion>
+    <hestimadas>1</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+</tareas>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tareas xmlns:has="http://ji.ehu.es/has">
+  <tarea>
+    <codigo>as</codigo>
+    <descripcion>asd</descripcion>
+    <hestimadas>2</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>ISO 3</codigo>
+    <descripcion>tarea 3</descripcion>
+    <hestimadas>4</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>ISO-Lab1</codigo>
+    <descripcion>prueba</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>Final Test</codigo>
+    <descripcion>Dificil</descripcion>
+    <hestimadas>2</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Test</tipotarea>
+  </tarea>
+</tareas>
